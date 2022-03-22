@@ -1,4 +1,2 @@
 
-Today is Tuesday
-
-Git class
+Java is fun
